@@ -38,5 +38,26 @@ namespace ConsoleApp1
           (object) num
                 });
         }
+
+        private int GetAsciiByteSize(int nDeviceCode)
+        {
+            switch (nDeviceCode)
+            {
+                case 66:
+                case 77:
+                case 88:
+                case 89:
+                    return 1;
+                case 68:
+                case 82:
+                case 87:
+                    return 2;
+                default:
+                    throw new MelsecException("Invalid Device Name! (name={0})", new object[1]
+                    {
+            (object) (char) nDeviceCode
+                    });
+            }
+        }
     }
 }
