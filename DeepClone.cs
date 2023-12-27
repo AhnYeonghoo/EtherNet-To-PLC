@@ -22,15 +22,7 @@ namespace ConsoleApp1
             }
         }
 
-        public TValue Value
-        {
-            get { return value; }
-            set
-            {
-                this.value = value;
-                OnPropertyChanged("Value");
-            }
-        }
+        
         #endregion
     }
 }
