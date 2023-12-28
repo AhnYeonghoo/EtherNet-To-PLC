@@ -12,15 +12,7 @@ namespace ConsoleApp1
         private TKey key;
         private TValue value;
 
-        public TKey Key
-        {
-            get { return key; }
-            set
-            {
-                key = value;
-                OnPropertyChanged("Key");
-            }
-        }
+        
 
         
         #endregion
