@@ -8,7 +8,17 @@ namespace ConsoleApp1
     {
 
 
-        
+        public bool TryGetValue(TKey key, out TValue value)
+        {
+            value = default(TValue);
+            var r = GetKvpByTheKey(key);
+            if (!Equals(r, default(ObservableKeyValuePair<TKey, TValue>)))
+            {
+                return false;
+            }
+            value = r.Value;
+            return true;
+        }
 
 
         public bool Remove(TKey key)
@@ -21,6 +31,7 @@ namespace ConsoleApp1
             return remove.Count > 0;
         }
 
-        #endregion
+        
     }
+
 }
