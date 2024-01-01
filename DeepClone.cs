@@ -31,7 +31,10 @@ namespace ConsoleApp1
             return remove.Count > 0;
         }
 
-        
+        private ObservableKeyValuePair<TKey, TValue> GetKvpByTheKey(TKey key)
+        {
+            return ThisAsCollection().FirstOrDefault((i) => i.Key.Equals(key));
+        }
 
 
     }
