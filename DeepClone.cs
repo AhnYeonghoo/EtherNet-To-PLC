@@ -112,10 +112,7 @@ namespace SFACTInspector.Control.Utility
             return EqualityComparer<TKey>.Default.Equals(a, b);
         }
 
-        private ObservableCollection<ObservableKeyValuePair<TKey, TValue>> ThisAsCollection()
-        {
-            return this;
-        }
+        
 
         public ICollection<TKey> Keys
         {
