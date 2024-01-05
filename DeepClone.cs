@@ -114,10 +114,7 @@ namespace SFACTInspector.Control.Utility
 
         
 
-        public ICollection<TKey> Keys
-        {
-            get { return (from i in ThisAsCollection() select i.Key).ToList(); }
-        }
+        
 
         public bool Remove(TKey key)
         {
