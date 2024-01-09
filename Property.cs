@@ -73,7 +73,42 @@ namespace Property
         }
     }
 
+   interface INamedValue
+    {
+        string Name
+        {
+            get; set;
+        }
+        string Value
+        {
+            get; set;
+        }
+    }
+
+    class NamedValue : INamedValue
+    {
+        public string Name { get; set; }
+        public string Value { get; set; }
+
+    }
     
+    abstract class Product
+    {
+        private static int serial = 0;
+        public string SerialID
+        {
+            get { return String.Format("{0:d5}", serial++); }
+        }
+
+        abstract public DateTime ProductDate
+        { get; set; }
+    }
+
+    class MyProduct : Product
+    {
+        public override DateTime ProductDate
+        { get; set; }
+    }
 
   
     class MainApp
