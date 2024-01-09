@@ -73,6 +73,8 @@ namespace Property
         }
     }
 
+    
+
   
     class MainApp
     {
@@ -88,8 +90,19 @@ namespace Property
             ConstuctorProperty birth2 = new ConstuctorProperty()
             {
                 Name = "SeoHyeon",
-                Birthday = new DateTime(1991, 6, 28)
+                Birthday = new DateTime(1991, 6, 28),
+            };
+
+            Console.WriteLine("d");
+
+            var a = new { Name = "박상현", Age = 123 };
+            Console.WriteLine($"Name: {a.Name}, Age: {a.Age}");
+            var b = new { Subject = "Math", Scores = new int[] { 90, 80, 70, 60 } };
+            foreach (var score in b.Scores)
+            {
+                Console.WriteLine($"{score}");
             }
+            
         }
     }
 }
