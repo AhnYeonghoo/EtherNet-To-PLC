@@ -55,7 +55,7 @@ namespace BasicThread
 
      
 
-        static void Main(string[] args)
+        static void MainProcess(string[] args)
         {
             Thread t1 = new Thread(new ThreadStart(DoSomething));
 
