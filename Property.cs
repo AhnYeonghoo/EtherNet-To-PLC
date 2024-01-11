@@ -113,7 +113,7 @@ namespace Property
   
     class MainApp
     {
-        static void Main(string[] args)
+        static void MainProperty(string[] args)
         {
             BirthdayInfo birth = new BirthdayInfo();
             birth.Name = "SeoHyeon";
