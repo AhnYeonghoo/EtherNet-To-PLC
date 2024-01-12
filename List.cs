@@ -48,6 +48,12 @@ namespace List
         }
 
         private string[] names = { "spencer", "Saliy", "Doug" };
+
+        public ListPrac(string[] names)
+        {
+            this.names = names;
+        }
+
         public string GetName(int ID)
         {
             if (ID < names.Length)
@@ -182,7 +188,7 @@ namespace List
 
         }
 
-        public static void Main()
+        public static void MainList()
         {
             var v = new { Amount = 108, Message = "Hello" };
             Console.WriteLine(v.Amount + v.Message);
