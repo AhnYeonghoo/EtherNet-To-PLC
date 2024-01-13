@@ -123,6 +123,7 @@ namespace Method
 
         }
 
+      
         public class Options
         {
             public void ExampleMethod(int required, int optionalInt = default,
