@@ -46,7 +46,7 @@ namespace Method
 
     public class SquareExample
     {
-        public static void Main()
+        public static void MainMethod()
         {
             int num = 4;
             int productA = Square(num);
