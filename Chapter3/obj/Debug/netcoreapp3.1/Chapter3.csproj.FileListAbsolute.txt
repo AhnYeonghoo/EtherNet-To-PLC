@@ -11,3 +11,4 @@ C:\Users\dksdu\Desktop\ConsoleApp1\Chapter3\obj\Debug\netcoreapp3.1\Chapter3.csp
 C:\Users\dksdu\Desktop\ConsoleApp1\Chapter3\obj\Debug\netcoreapp3.1\Chapter3.dll
 C:\Users\dksdu\Desktop\ConsoleApp1\Chapter3\obj\Debug\netcoreapp3.1\Chapter3.pdb
 C:\Users\dksdu\Desktop\ConsoleApp1\Chapter3\obj\Debug\netcoreapp3.1\Chapter3.genruntimeconfig.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\Chapter3\obj\Debug\netcoreapp3.1\Chapter3.csproj.AssemblyReference.cache

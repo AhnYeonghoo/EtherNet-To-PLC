@@ -4,7 +4,7 @@ namespace StringSlice
 {
     class MainApp
     {
-        static void Main()
+        static void MainStringSlice()
         {
             string greeting = "Good Morning";
             Console.WriteLine(greeting.Substring(0, 5));
