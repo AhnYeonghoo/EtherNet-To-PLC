@@ -18,5 +18,7 @@ namespace Classes
 
         public LineOfCreditAccount(string name, decimal initialBalance, decimal creditLimit)
             : base(name, initialBalance, -creditLimit) { }
+
+        
     }
 }

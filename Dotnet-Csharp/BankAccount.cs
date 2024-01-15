@@ -57,12 +57,25 @@ namespace Classes
         {
             if (amount <= 0)
             {
-                throw new ArgumentOutOfRangeException(nameof(amount), "Not sufficient" +
-                    "funds for this withdrawal");
+                throw new ArgumentOutOfRangeException(nameof(amount), "Amount of withdrawal must be positive");
             }
-            var withdrawal = new Transaction(-amount, date, note);
+            Transaction? overdraftTransaction = CheckWithdrawalLimit(Balance - amount < _minimumBalance);
+            Transaction? withdrawal = new(-amount, date, note);
             allTransactions.Add(withdrawal);
+            if (overdraftTransaction != null)
+                allTransactions.Add(overdraftTransaction);
         }
+
+        protected virtual Transaction? CheckWithdrawalLimit(bool isOverdrawn)
+        {
+            if (isOverdrawn)
+                throw new InvalidOperationException("Not Suffcient funds for this withdrawal");
+            else
+                return default;
+        }   
+
+
+        
 
         public string GetAccountHistory()
         {
