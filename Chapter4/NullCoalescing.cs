@@ -4,7 +4,7 @@ namespace NullCoalescing
 {
     class MainApp
     {
-        static void Main()
+        static void MainNullCoalescing()
         {
             int? num = null;
             Console.WriteLine($"{num ?? 0}");

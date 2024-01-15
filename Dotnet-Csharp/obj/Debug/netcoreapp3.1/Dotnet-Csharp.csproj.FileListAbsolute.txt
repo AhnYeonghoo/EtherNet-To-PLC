@@ -1,0 +1,14 @@
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\bin\Debug\netcoreapp3.1\Dotnet-Csharp.exe
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\bin\Debug\netcoreapp3.1\Dotnet-Csharp.deps.json
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\bin\Debug\netcoreapp3.1\Dotnet-Csharp.runtimeconfig.json
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\bin\Debug\netcoreapp3.1\Dotnet-Csharp.runtimeconfig.dev.json
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\bin\Debug\netcoreapp3.1\Dotnet-Csharp.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\bin\Debug\netcoreapp3.1\Dotnet-Csharp.pdb
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.AssemblyInfoInputs.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.AssemblyInfo.cs
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.pdb
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.genruntimeconfig.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.csproj.AssemblyReference.cache
