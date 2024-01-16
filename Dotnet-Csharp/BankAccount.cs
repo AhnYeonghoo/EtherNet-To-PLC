@@ -60,7 +60,7 @@ namespace Classes
                 throw new ArgumentOutOfRangeException(nameof(amount), "Amount of withdrawal must be positive");
             }
             Transaction? overdraftTransaction = CheckWithdrawalLimit(Balance - amount < _minimumBalance);
-            Transaction? withdrawal = new(-amount, date, note);
+            Transaction? withdrawal = new Transaction(-amount, date, note);
             allTransactions.Add(withdrawal);
             if (overdraftTransaction != null)
                 allTransactions.Add(overdraftTransaction);
