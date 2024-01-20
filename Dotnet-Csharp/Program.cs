@@ -5,7 +5,7 @@ namespace Dotnet_Csharp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void MainMain(string[] args)
         {
             Console.WriteLine("Hello World!");
             var account = new BankAccount("Ahn", 10000);
