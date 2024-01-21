@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet-Csharp", "Dotnet-Csh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EthernetTcpIp", "EthernetTcpIp\EthernetTcpIp.csproj", "{3FA5778E-0868-49EC-8E3C-FDDD7C81E258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter5", "Chapter5\Chapter5.csproj", "{0804EE02-2107-48FE-8BCF-4982E198037F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter5", "Chapter5\Chapter5.csproj", "{0804EE02-2107-48FE-8BCF-4982E198037F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -6,7 +6,7 @@ namespace Chapter5
 {
     class Switch2
     {
-        static void Main(string[] args)
+        static void MaindSwitch(string[] args)
         {
             object obj = null;
 

@@ -1,0 +1,5 @@
+C:\Users\dksdu\Desktop\ConsoleApp1\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.csproj.AssemblyReference.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dksdu\Desktop\ConsoleApp1\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.AssemblyInfoInputs.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.AssemblyInfo.cs
+C:\Users\dksdu\Desktop\ConsoleApp1\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.csproj.CoreCompileInputs.cache
