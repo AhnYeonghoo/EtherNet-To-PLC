@@ -7,17 +7,19 @@ using System.IO;
 using System.Text;
 
 
-Socket mainSock;
-System.Net.IPAddress thisAddress;
-List<Socket> connectedClients = new List<Socket>();
-int port = 9009;
+
 
 namespace rev
 {
     // 비동기 작업에서 사용하는 소켓과 해당 작업에 대한
     // 데이터 버퍼를 저장하는 클래스
+
     public class AsyncObject
     {
+        Socket mainSock;
+        System.Net.IPAddress thisAddress;
+        List<Socket> connectedClients = new List<Socket>();
+        int port = 9009;
         public byte[] buffer;
         public Socket workingSocket;
         public readonly int bufferSize;

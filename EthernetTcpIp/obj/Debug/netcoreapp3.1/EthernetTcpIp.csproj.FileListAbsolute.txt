@@ -1,0 +1,5 @@
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.csproj.AssemblyReference.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.AssemblyInfoInputs.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.AssemblyInfo.cs
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.csproj.CoreCompileInputs.cache
