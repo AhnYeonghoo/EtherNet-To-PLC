@@ -1,0 +1,15 @@
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\bin\Debug\net8.0\ExampleCSharp.exe
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\bin\Debug\net8.0\ExampleCSharp.deps.json
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\bin\Debug\net8.0\ExampleCSharp.runtimeconfig.json
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\bin\Debug\net8.0\ExampleCSharp.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\bin\Debug\net8.0\ExampleCSharp.pdb
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ExampleCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ExampleCSharp.AssemblyInfoInputs.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ExampleCSharp.AssemblyInfo.cs
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ExampleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ExampleCSharp.sourcelink.json
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ExampleCSharp.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\refint\ExampleCSharp.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ExampleCSharp.pdb
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ExampleCSharp.genruntimeconfig.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\ExampleCSharp\obj\Debug\net8.0\ref\ExampleCSharp.dll
