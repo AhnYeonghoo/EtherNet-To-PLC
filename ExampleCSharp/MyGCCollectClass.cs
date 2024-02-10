@@ -52,6 +52,8 @@ namespace ExampleCSharp
             Console.WriteLine(it.Current);
 
 
+
+
         }
 
         static IEnumerable<int> GetNumber()

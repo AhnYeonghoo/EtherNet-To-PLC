@@ -41,7 +41,7 @@ namespace ExampleCSharp
     public class SafetyCating
     {
         int? j = null;
-        public static void Main()
+        public  void MainSafetyCasting()
         {
             var g = new Giraffe();
             var a = new Animal();
@@ -68,7 +68,7 @@ namespace ExampleCSharp
             PatternMatchingSwitch(j);
             PatternMatchingSwitch(d);
 
-            Giraffe g = new();
+            Giraffe g2 = new();
             UseIsOperator(g);
 
             UseAsOperator(g);

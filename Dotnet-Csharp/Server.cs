@@ -9,7 +9,7 @@ namespace Server
 {
     class ServerProgram
     {
-        public static void Main(string[] args)
+        public static void MainServer(string[] args)
         {
             Console.WriteLine("서버콘솔창 \n\n\n");
             Server.ClientProgram.Client();

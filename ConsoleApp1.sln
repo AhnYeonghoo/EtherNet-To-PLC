@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31624.102
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{8915F008-9C8F-49E2-8A58-EE9CC4CDA6D2}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EthernetTcpIp", "EthernetTcpIp\EthernetTcpIp.csproj", "{3FA5778E-0868-49EC-8E3C-FDDD7C81E258}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter5", "Chapter5\Chapter5.csproj", "{0804EE02-2107-48FE-8BCF-4982E198037F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleCSharp", "ExampleCSharp\ExampleCSharp.csproj", "{D227B89E-1999-4F04-BFF9-BCD7E77D1893}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{0804EE02-2107-48FE-8BCF-4982E198037F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0804EE02-2107-48FE-8BCF-4982E198037F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0804EE02-2107-48FE-8BCF-4982E198037F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D227B89E-1999-4F04-BFF9-BCD7E77D1893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D227B89E-1999-4F04-BFF9-BCD7E77D1893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D227B89E-1999-4F04-BFF9-BCD7E77D1893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D227B89E-1999-4F04-BFF9-BCD7E77D1893}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
