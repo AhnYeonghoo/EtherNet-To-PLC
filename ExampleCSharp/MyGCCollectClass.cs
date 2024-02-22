@@ -10,7 +10,7 @@ namespace ExampleCSharp
     class MyGCCollectClass
     {
         private const long maxGarbage = 1000;
-        static void Main()
+        static void MainMyGCColectClass()
         {
             MyGCCollectClass myGCCol = new MyGCCollectClass();
 

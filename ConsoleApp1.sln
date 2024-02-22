@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EthernetTcpIp", "EthernetTc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter5", "Chapter5\Chapter5.csproj", "{0804EE02-2107-48FE-8BCF-4982E198037F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleCSharp", "ExampleCSharp\ExampleCSharp.csproj", "{D227B89E-1999-4F04-BFF9-BCD7E77D1893}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleCSharp", "ExampleCSharp\ExampleCSharp.csproj", "{D227B89E-1999-4F04-BFF9-BCD7E77D1893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp", "csharp\csharp.csproj", "{089AA1F6-D5BC-4906-B551-47BC35DB004E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D227B89E-1999-4F04-BFF9-BCD7E77D1893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D227B89E-1999-4F04-BFF9-BCD7E77D1893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D227B89E-1999-4F04-BFF9-BCD7E77D1893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089AA1F6-D5BC-4906-B551-47BC35DB004E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089AA1F6-D5BC-4906-B551-47BC35DB004E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089AA1F6-D5BC-4906-B551-47BC35DB004E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089AA1F6-D5BC-4906-B551-47BC35DB004E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
