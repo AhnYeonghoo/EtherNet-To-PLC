@@ -87,4 +87,12 @@ namespace ExampleCSharp
             }
         }
     }
+
+    public class AnYeonghoo
+    {
+        private string wife = "Soyul-Kim";
+        private int age = 24;
+        private string school = "Chungbuk National University";
+   
+    }
 }

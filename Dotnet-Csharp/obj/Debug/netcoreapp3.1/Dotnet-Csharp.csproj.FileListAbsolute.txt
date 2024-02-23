@@ -12,3 +12,4 @@ C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-
 C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.pdb
 C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.genruntimeconfig.cache
 C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.csproj.AssemblyReference.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\Dotnet-Csharp\obj\Debug\netcoreapp3.1\Dotnet-Csharp.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\dksdu\Desktop\ConsoleApp1\Chapter4\obj\Debug\netcoreapp3.1\Chapter4.dll
 C:\Users\dksdu\Desktop\ConsoleApp1\Chapter4\obj\Debug\netcoreapp3.1\Chapter4.pdb
 C:\Users\dksdu\Desktop\ConsoleApp1\Chapter4\obj\Debug\netcoreapp3.1\Chapter4.genruntimeconfig.cache
 C:\Users\dksdu\Desktop\ConsoleApp1\Chapter4\obj\Debug\netcoreapp3.1\Chapter4.csproj.AssemblyReference.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\Chapter4\obj\Debug\netcoreapp3.1\Chapter4.sourcelink.json

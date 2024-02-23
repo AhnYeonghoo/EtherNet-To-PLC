@@ -3,3 +3,16 @@ C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\Etherne
 C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.AssemblyInfoInputs.cache
 C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.AssemblyInfo.cs
 C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.csproj.CoreCompileInputs.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\bin\Debug\netcoreapp3.1\EthernetTcpIp.exe
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\bin\Debug\netcoreapp3.1\EthernetTcpIp.deps.json
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\bin\Debug\netcoreapp3.1\EthernetTcpIp.runtimeconfig.json
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\bin\Debug\netcoreapp3.1\EthernetTcpIp.runtimeconfig.dev.json
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\bin\Debug\netcoreapp3.1\EthernetTcpIp.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\bin\Debug\netcoreapp3.1\EthernetTcpIp.pdb
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\bin\Debug\netcoreapp3.1\Interop.ActUtlTypeLib.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\Interop.ActUtlTypeLib.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.csproj.ResolveComReference.cache
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.sourcelink.json
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.dll
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.pdb
+C:\Users\dksdu\Desktop\ConsoleApp1\EthernetTcpIp\obj\Debug\netcoreapp3.1\EthernetTcpIp.genruntimeconfig.cache
