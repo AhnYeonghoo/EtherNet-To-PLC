@@ -8,7 +8,7 @@ namespace CSharpRemind.Chapter03
 {
     internal class StringInterpolation
     {
-        static void Main()
+        static void MainStringInterpolation()
         {
             string name = "김튼튼";
             int age = 23;
