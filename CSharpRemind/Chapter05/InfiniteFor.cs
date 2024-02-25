@@ -11,7 +11,7 @@ namespace CSharpRemind.Chapter05
         static void MainInfiniteFor()
         {
             int i = 0;
-            for(; ; )
+            for (; ; )
             {
                 Console.WriteLine(i++);
             }
@@ -19,5 +19,6 @@ namespace CSharpRemind.Chapter05
             int j = 0;
             while (true)
                 Console.WriteLine(j++);
+        }
     }
 }
