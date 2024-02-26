@@ -20,7 +20,7 @@ namespace CSharpRemind.Chapter07
             };
         }
 
-        static void Main()
+        static void MainPositionalPattern()
         {
             var alice = (job: "학생", age: 17);
             var bob = (job: "학생", age: 23);
