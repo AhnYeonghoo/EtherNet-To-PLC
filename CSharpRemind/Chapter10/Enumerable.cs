@@ -67,6 +67,7 @@ namespace CSharpRemind.Chapter10
             for (int i = 0; i < 5; i++)
                 list[i] = i;
             foreach (int e in list)
+                
                 Console.WriteLine(e);
         }
     }
