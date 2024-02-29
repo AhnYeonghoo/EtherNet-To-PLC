@@ -38,7 +38,7 @@ namespace CSharpRemind.Chapter11
     }
     internal class Generic
     {
-        static void Main()
+        static void MainGeneric()
         {
             MyList3<string> str_list = new MyList3<string>();
             str_list[0] = "abc";
