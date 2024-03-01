@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EthernetTcpIp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bcd802c0bcae8e26865475453d2b5ef11627693")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f2b499d24f87ea17b3a746d492eb9e54d360d2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EthernetTcpIp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EthernetTcpIp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
