@@ -15,7 +15,7 @@ namespace CSharpRemind.Chapter12
             {
                 Console.WriteLine(arr[i]);
 
-
+                Console.WriteLine($"dsadsadas");
 
             }
         }
