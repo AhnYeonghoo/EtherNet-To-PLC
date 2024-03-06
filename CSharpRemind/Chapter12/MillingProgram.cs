@@ -8,6 +8,7 @@ namespace CSharpRemind.Chapter12
 {
     internal class MillingProgram
     {
+
         static void MainMillingProgram()
         {
             int[] arr = { 1, 2, 3 };
