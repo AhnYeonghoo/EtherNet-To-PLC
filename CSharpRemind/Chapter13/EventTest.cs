@@ -26,7 +26,7 @@ namespace CSharpRemind.Chapter13
             Console.WriteLine(message);
         }
 
-        static void Main()
+        static void MainEventTest()
         {
             MyNotifier notifier = new MyNotifier();
             notifier.SomethingHappenned += new EventHandler(MyHanlder);
