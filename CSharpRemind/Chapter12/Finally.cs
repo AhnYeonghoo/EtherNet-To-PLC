@@ -22,7 +22,7 @@ namespace CSharpRemind.Chapter12
             }
         }
 
-        static void Main()
+        static void MainFinally()
         {
             try
             {
@@ -44,7 +44,7 @@ namespace CSharpRemind.Chapter12
             }
             finally
             {
-                Console.WriteLine("프로그램을 종료합니다.")
+                Console.WriteLine("프로그램을 종료합니다.");
             }
         }
     }
