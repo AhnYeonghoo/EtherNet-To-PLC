@@ -1,12 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "0FG1k3hSuKS/CiHqfPpiemJ9uxiu7kN1umzBSmt++lvH45oerwkE9w99Jhy96XIqKUzG+d4HTqMhipnRpYfrBg==",
+  "dgSpecHash": "vEu0qcnPA4XhKGbjPcw6NvLsFQpgINS/9qvU+7dxjQb+Ssu8nBhlfBvBjIoOb/scsHYmld0NnwtrKLAqcRKIXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\dksdu\\Desktop\\ConsoleApp1\\EthernetTcpIp\\EthernetTcpIp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\dksdu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []

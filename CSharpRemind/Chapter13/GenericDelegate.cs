@@ -22,7 +22,7 @@ namespace CSharpRemind.Chapter13
         static void BubbleSort<T>(T[] DataSet, Compare<T> Comparer)
         {
             int j = 0; int i = 0; T temp;
-            for (i = 0; i < DataSet.Length - ; i++)
+            for (i = 0; i < DataSet.Length - 1; i++)
             {
                 for (j = 0; j < DataSet.Length - (i + 1); j++)
                 {
