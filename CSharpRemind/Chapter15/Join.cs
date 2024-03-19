@@ -20,7 +20,7 @@ namespace CSharpRemind.Chapter15
 
     internal class Join
     {
-       static void Main()
+       static void MainJoin()
         {
             Profile2[] arrPRofile =
             {
@@ -58,13 +58,13 @@ namespace CSharpRemind.Chapter15
 
 
             listProfile =
-                from profile in arrProfile
+                from profile in listProfile
                 join product in arrProduct on profile.Name equals product.Star into ps
                 from product in ps.DefaultIfEmpty(new Product2() { Title = "그런거 없음" })
                 select new
                 {
                     Name = profile.Name,
-                    Work = profile.Title,
+                    Work = product.Title,
                     Height = profile.Height,
                 };
 
